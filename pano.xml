@@ -18,7 +18,7 @@
     <hotspots wordwrap="1" height="20" width="180">
       <label background="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" borderalpha="1" backgroundalpha="1" borderradius="1" textcolor="0x000000" wordwrap="1" height="20" textalpha="1" border="1" width="180"/>
       <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot skinid="ht_node" description="" target="" distance3D="1640.21" customimageheight="135" fov="10" customimagewidth="287" tilt="-17.96" title="Intro_Video" id="Point03" pan="20.37" use3D="0" url="{node4}" customimage="media/Story Mode-01.png"/>
+      <hotspot skinid="ht_node" description="" target="" distance3D="1640.21" customimageheight="135" fov="10" customimagewidth="287" tilt="-18.05" title="Intro_Video" id="Point03" pan="20.37" use3D="0" url="{node4}" customimage="media/Story Mode-01.png"/>
       <hotspot skinid="ht_url" description="" target="_blank" distance3D="1640.21" customimageheight="135" fov="10" customimagewidth="287" tilt="-18.03" title="" id="Point01" pan="-20.54" use3D="0" url="" customimage="media/Tour Mode-01.png"/>
     </hotspots>
     <media>
