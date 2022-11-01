@@ -130,7 +130,7 @@
       <image tilt="68.990" roty="0.000" clickmode="0" width="605" rotx="0.000" fov="30.000" handcursor="0" id="Element04" pan="-53.630" stretch="1.000" rotz="0.000" height="600">
         <source url="media/605px-C-47_Dakotas_and_paratroops.jpg"/>
       </image>
-      <image tilt="0.630" roty="-5.000" clickmode="4" width="1024" rotx="-15.000" fov="7.323" handcursor="0" id="Element05" pan="-358.080" stretch="1.000" rotz="-1.000" height="771">
+      <image tilt="0.530" roty="-5.000" clickmode="4" width="1024" rotx="-15.000" fov="7.323" handcursor="0" id="Element05" pan="-358.080" stretch="1.000" rotz="-1.000" height="771">
         <source url="media/omaha_beach_debarquement.jpg"/>
       </image>
     </media>
@@ -172,7 +172,7 @@
       <image tilt="74.700" roty="0.000" clickmode="0" width="605" rotx="0.000" fov="31.570" handcursor="0" id="Element04" pan="-82.510" stretch="1.000" rotz="0.000" height="600">
         <source url="media/605px-C-47_Dakotas_and_paratroops.jpg"/>
       </image>
-      <image tilt="2.260" roty="3.000" clickmode="4" width="1200" rotx="0.000" fov="5.062" handcursor="0" id="Element06" pan="-1.440" stretch="1.000" rotz="0.000" height="1200">
+      <image tilt="1.740" roty="3.000" clickmode="4" width="1200" rotx="0.000" fov="5.062" handcursor="0" id="Element06" pan="-360.940" stretch="1.000" rotz="0.000" height="1200">
         <source url="media/hith-tiger-nara-2.jpg"/>
       </image>
     </media>
