@@ -57,9 +57,12 @@
       <hotspot tilt="-38.33" customimage="media/Next Blue Icons-01.png" customimagewidth="125" skinid="ht_node" description="" target="" use3D="0" distance3D="714.378" fov="10" id="Point01" title="" url="{node1}" customimageheight="125" pan="-276.29"/>
     </hotspots>
     <media>
-      <video rotz="0.000" nodechangekeep="0" mode="3" startmutedmobile="0" field="90.000" tilt="-12.580" tiltsize="10.000" handcursor="0" ambientlevel="0.000" roty="0.000" width="3792" stretch="1.000" pansize="10.000" height="4694" rotx="-7.000" loop="1" fov="39.889" level="1.000" pan="-253.610" clickmode="0" id="Element01">
-        <source url="media/Normandy_480.mov"/>
+      <video rotz="0.000" nodechangekeep="0" mode="3" startmutedmobile="0" field="90.000" tilt="-12.580" tiltsize="10.000" handcursor="0" ambientlevel="0.000" roty="0.000" width="3792" stretch="1.000" pansize="10.000" height="4694" rotx="-7.000" loop="1" fov="39.890" level="1.000" pan="-253.610" clickmode="0" id="Element01">
+        <source url="media/Normandy_NA_480.mov"/>
       </video>
+      <sound nodechangekeep="0" loop="1" tilt="25.910" level="1.000" tiltsize="10.000" field="90.000" mode="2" pansize="10.000" id="Element02" startmutedmobile="0" pan="-267.000" ambientlevel="0.000">
+        <source url="media/dwightdeisenhowerddayaddress.mp3"/>
+      </sound>
     </media>
     <transition enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomfov="20" type="crossdissolve" softedge="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafterinfov="90"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
@@ -127,7 +130,7 @@
       <image tilt="68.990" roty="0.000" clickmode="0" width="605" rotx="0.000" fov="30.000" handcursor="0" id="Element04" pan="-53.630" stretch="1.000" rotz="0.000" height="600">
         <source url="media/605px-C-47_Dakotas_and_paratroops.jpg"/>
       </image>
-      <image tilt="-0.170" roty="-4.000" clickmode="4" width="1024" rotx="0.000" fov="15.870" handcursor="0" id="Element05" pan="-357.980" stretch="1.000" rotz="1.000" height="771">
+      <image tilt="0.630" roty="-5.000" clickmode="4" width="1024" rotx="-15.000" fov="7.323" handcursor="0" id="Element05" pan="-358.080" stretch="1.000" rotz="-1.000" height="771">
         <source url="media/omaha_beach_debarquement.jpg"/>
       </image>
     </media>
@@ -163,13 +166,13 @@
       <sound nodechangekeep="0" loop="1" tilt="49.620" level="1.000" tiltsize="10.000" field="90.000" mode="3" pansize="10.000" id="Element02" startmutedmobile="0" pan="-284.370" ambientlevel="1.000">
         <source url="media/low-airplane-fly-by-90354.mp3"/>
       </sound>
-      <image tilt="-3.930" roty="0.000" clickmode="0" width="1800" rotx="0.000" fov="21.628" handcursor="0" id="Element03" pan="-322.100" stretch="1.000" rotz="0.000" height="1013">
+      <image tilt="-7.240" roty="0.000" clickmode="0" width="1800" rotx="-11.000" fov="21.628" handcursor="0" id="Element03" pan="-323.330" stretch="1.000" rotz="4.000" height="1013">
         <source url="media/barrier.png"/>
       </image>
       <image tilt="74.700" roty="0.000" clickmode="0" width="605" rotx="0.000" fov="31.570" handcursor="0" id="Element04" pan="-82.510" stretch="1.000" rotz="0.000" height="600">
         <source url="media/605px-C-47_Dakotas_and_paratroops.jpg"/>
       </image>
-      <image tilt="-0.090" roty="3.000" clickmode="4" width="1200" rotx="0.000" fov="10.120" handcursor="0" id="Element06" pan="-0.930" stretch="1.000" rotz="0.000" height="1200">
+      <image tilt="2.260" roty="3.000" clickmode="4" width="1200" rotx="0.000" fov="5.062" handcursor="0" id="Element06" pan="-1.440" stretch="1.000" rotz="0.000" height="1200">
         <source url="media/hith-tiger-nara-2.jpg"/>
       </image>
     </media>
