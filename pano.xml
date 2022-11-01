@@ -54,10 +54,10 @@
     <hotspots wordwrap="1" width="180" height="20">
       <label enabled="1" borderradius="1" wordwrap="1" backgroundalpha="1" border="1" width="180" background="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" height="20" textalpha="1"/>
       <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
-      <hotspot tilt="-38.33" customimage="media/Next Blue Icons-01.png" customimagewidth="125" skinid="ht_node" description="" target="" use3D="0" distance3D="714.378" fov="10" id="Point01" title="" url="{node1}" customimageheight="125" pan="-276.29"/>
+      <hotspot tilt="-27.3" customimage="media/Next Blue Icons-01.png" customimagewidth="125" skinid="ht_node" description="" target="" use3D="0" distance3D="714.378" fov="10" id="Point01" title="" url="{node1}" customimageheight="125" pan="-275.61"/>
     </hotspots>
     <media>
-      <video rotz="0.000" nodechangekeep="0" mode="3" startmutedmobile="0" field="90.000" tilt="-12.580" tiltsize="10.000" handcursor="0" ambientlevel="0.000" roty="0.000" width="3792" stretch="1.000" pansize="10.000" height="4694" rotx="-7.000" loop="1" fov="39.890" level="1.000" pan="-253.610" clickmode="0" id="Element01">
+      <video rotz="0.000" nodechangekeep="0" mode="3" startmutedmobile="0" field="90.000" tilt="-4.880" tiltsize="10.000" handcursor="0" ambientlevel="0.000" roty="0.000" width="3792" stretch="1.000" pansize="10.000" height="4694" rotx="-7.000" loop="1" fov="39.890" level="1.000" pan="-253.150" clickmode="0" id="Element01">
         <source url="media/Normandy_NA_480.mov"/>
       </video>
       <sound nodechangekeep="0" loop="1" tilt="25.910" level="1.000" tiltsize="10.000" field="90.000" mode="2" pansize="10.000" id="Element02" startmutedmobile="0" pan="-267.000" ambientlevel="0.000">
