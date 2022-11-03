@@ -57,13 +57,13 @@
       <hotspot tilt="-30.01" description="" url="{node1}" customimage="media/Next Blue Icons-01.png" distance3D="714.378" id="Point01" title="" pan="-275.72" use3D="0" customimagewidth="125" customimageheight="125" target="" skinid="ht_node" fov="10"/>
     </hotspots>
     <media>
-      <video id="Element01" width="3792" roty="1.000" fov="39.890" pan="-253.840" clickmode="0" level="1.000" rotx="8.000" height="4694" rotz="0.000" loop="1" handcursor="0" stretch="1.000" pansize="10.000" mode="3" tilt="1.020" nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" field="90.000" ambientlevel="0.000">
+      <video id="Element01" width="3792" roty="1.000" fov="39.890" pan="-253.840" clickmode="0" level="1.000" rotx="1.000" height="4694" rotz="0.000" loop="1" handcursor="0" stretch="1.000" pansize="10.000" mode="3" tilt="1.020" nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" field="90.000" ambientlevel="0.000">
         <source url="media/Intro_3-3_480.mov"/>
       </video>
-      <video id="Element01" width="3792" roty="1.000" fov="24.938" pan="-211.850" clickmode="0" level="1.000" rotx="-8.000" height="4694" rotz="0.000" loop="1" handcursor="0" stretch="1.000" pansize="10.000" mode="3" tilt="1.920" nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" field="90.000" ambientlevel="0.000">
+      <video id="Element01" width="3792" roty="1.000" fov="24.938" pan="-220.990" clickmode="0" level="1.000" rotx="-8.000" height="4694" rotz="0.000" loop="1" handcursor="0" stretch="1.000" pansize="10.000" mode="3" tilt="0.660" nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" field="90.000" ambientlevel="0.000">
         <source url="media/intro_1-3_480.mov"/>
       </video>
-      <video id="Element01" width="3792" roty="1.000" fov="22.273" pan="-297.560" clickmode="0" level="1.000" rotx="-15.000" height="4694" rotz="0.000" loop="1" handcursor="0" stretch="1.000" pansize="10.000" mode="3" tilt="0.310" nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" field="90.000" ambientlevel="0.000">
+      <video id="Element01" width="3792" roty="1.000" fov="22.270" pan="-286.630" clickmode="0" level="1.000" rotx="-15.000" height="4694" rotz="0.000" loop="1" handcursor="0" stretch="1.000" pansize="10.000" mode="3" tilt="0.490" nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" field="90.000" ambientlevel="0.000">
         <source url="media/intro_2-3_480.mov"/>
       </video>
       <sound tilt="25.910" pansize="10.000" field="90.000" level="1.000" loop="1" id="Element02" pan="-267.000" nodechangekeep="0" tiltsize="10.000" mode="2" startmutedmobile="0" ambientlevel="0.000">
