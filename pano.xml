@@ -92,7 +92,7 @@
     <hotspots width="180" wordwrap="1" height="20">
       <label width="180" wordwrap="1" height="20" backgroundcolor="0xffffff" textalpha="1" borderradius="1" background="1" textcolor="0x000000" borderalpha="1" enabled="1" border="1" backgroundalpha="1" bordercolor="0x000000"/>
       <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="3.04" url="{node3}" skinid="Hotspot 1" pan="-256.94" title="" target="" description="" id="Point01"/>
+      <hotspot tilt="4.47" url="{node3}" skinid="Hotspot 1" pan="-256.94" title="" target="" description="" id="Point01"/>
     </hotspots>
     <media>
       <sound tilt="14.500" nodechangekeep="0" tiltsize="10.000" field="90.000" pan="-255.500" ambientlevel="1.000" level="1.000" loop="10" pansize="10.000" id="Element01" mode="3" startmutedmobile="0">
@@ -162,8 +162,8 @@
     <hotspots width="180" wordwrap="1" height="20">
       <label width="180" wordwrap="1" height="20" backgroundcolor="0xffffff" textalpha="1" borderradius="1" background="1" textcolor="0x000000" borderalpha="1" enabled="1" border="1" backgroundalpha="1" bordercolor="0x000000"/>
       <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="1.18" url="{node1}" skinid="Hotspot 1" pan="-289.05" title="" target="" description="" id="Point01"/>
-      <hotspot tilt="13.85" url="{node2}" skinid="Hotspot 1" pan="-174.92" title="" target="" description="" id="Point02"/>
+      <hotspot tilt="2.37" url="{node1}" skinid="Hotspot 1" pan="-288.95" title="" target="" description="" id="Point01"/>
+      <hotspot tilt="15.4" url="{node2}" skinid="Hotspot 1" pan="-175.26" title="" target="" description="" id="Point02"/>
     </hotspots>
     <media>
       <sound tilt="4.750" nodechangekeep="0" tiltsize="10.000" field="90.000" pan="-25.060" ambientlevel="1.000" level="1.000" loop="10" pansize="10.000" id="Element01" mode="3" startmutedmobile="0">
